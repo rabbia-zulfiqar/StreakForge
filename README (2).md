@@ -24,7 +24,7 @@ This project is made for the Object-Oriented Programming Lab, BSE-2 (Special), B
 5. `.gitignore`: files that GitHub should not upload
 
 ## How to compile and run
-1. Install a C++ compiler on your laptop (g++ version 11 or newer).
+1. Install a C++ compiler on laptop (g++ version 11 or newer).
 2. Open the project folder in a terminal and run:
    `g++ -std=c++17 src/*.cpp -o streakforge`
 3. Then start the program with:
